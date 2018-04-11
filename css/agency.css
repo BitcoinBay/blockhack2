@@ -217,11 +217,9 @@ header.masthead .intro-text .intro-heading {
     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
   header.masthead .intro-text .intro-heading {
-   /* font-size: 75px; */
-    font-size: 45px;
+   font-size: 75px;
     font-weight: 700;
-    /*line-height: 75px;*/
-    line-height: 45px;
+    line-height: 75px;
     margin-bottom: 50px;
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
